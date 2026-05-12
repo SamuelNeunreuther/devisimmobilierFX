@@ -1,0 +1,17 @@
+id;type;prixUnitaire
+1;dalle;30.0
+2;papier peint plafond;1.0
+3;tissus plafond;50.0
+4;parquet contrecolle;20.0
+5;parquet massif;30.0
+6;parquet stratifie;8.0
+7;linoleum;12.0
+8;carrelage sol;30.0
+9;moquette;5.0
+10;PVC;20.0
+11;carrelage mur;15.0
+12;habillage bois;25.0
+13;papier peint mur;1.0
+14;peinture mur;15.0
+15;tissus mur;50.0
+16;peinture plafond;15.0
